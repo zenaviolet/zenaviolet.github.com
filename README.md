@@ -1,5 +1,5 @@
 # zenaviolet.github.com
-                                ADVANTEGES OF PROGRASIVE WEB APPLICATION 
+#  ADVANTEGES OF PROGRASIVE WEB APPLICATION 
 
   1. use up less storage space on the user devic
   
@@ -7,7 +7,7 @@
   
  3. short loading time hence instant update
   
-                              DISADVANTEGES OF PROGRASIVE WEB APPLICATION
+#  DISADVANTEGES OF PROGRASIVE WEB APPLICATION
   
  a. still in the development phase
   
@@ -15,7 +15,7 @@
   
  c. not access to the apps stores
   
-                             ADVANTEGES OF NATIVE APPLICATION
+#  ADVANTEGES OF NATIVE APPLICATION
   
  1. can work without internet conection
   
@@ -25,17 +25,17 @@
   
  4. have better perfomence and faster than web application
   
-                             DISADVANTEGES OF NATIVE APPLICATION
+#  DISADVANTEGES OF NATIVE APPLICATION
   
- 1. time consuming development
+ a. time consuming development
   
- 2. require frequent installation
+ b. require frequent installation
   
- 3. lenthy downloading process
+ c. lenthy downloading process
   
- 4. code written for a multiple platform caccot be toilored for another platform
+ d. code written for a multiple platform caccot be toilored for another platform
   
-                            ADVANTEGES OF CROSS PLATFORM APPLICATION
+# ADVANTEGES OF CROSS PLATFORM APPLICATION
   
  1. it can rich wide audience
   
@@ -45,7 +45,7 @@
   
  4. sameless and unifofmity
   
-                           DISADVANTEGES OF CROSS PLATFORM APPLICATION
+# DISADVANTEGES OF CROSS PLATFORM APPLICATION
   
   1. lowe platform fungtionality-it does not allow enjoying all of the unique feature of every platform
   
@@ -55,7 +55,7 @@
   
  4.  limited user expirience
   
-                        DEFFINATION OF TERMS
+#   DEFFINATION OF TERMS
 
 1.Ionic-is aframework used to develope cross platform
 
