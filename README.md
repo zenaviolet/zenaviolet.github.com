@@ -7,7 +7,7 @@
   
   short loading time hence instant update
   
-  Disadvanteges of progresive web application
+                              DISADVANTEGES OF PROGRASIVE WEB APPLICATION
   
   still in the development phase
   
@@ -15,7 +15,7 @@
   
   not access to the apps stores
   
-  Advanteges of native application
+                             ADVANTEGES OF NATIVE APPLICATION
   
   can work without internet conection
   
@@ -25,7 +25,7 @@
   
   have better perfomence and faster than web application
   
-  Disadvanteges of native application
+                             DISADVANTEGES OF NATIVE APPLICATION
   
   time consuming development
   
@@ -35,7 +35,7 @@
   
   code written for a multiple platform caccot be toilored for another platform
   
-  Advanteges of cross platform application
+                            ADVANTEGES OF CROSS PLATFORM APPLICATION
   
   it can rich wide audience
   
@@ -45,7 +45,7 @@
   
   sameless and unifofmity
   
-  Disadvanteges of cross platform
+                           DISADVANTEGES OF CROSS PLATFORM APPLICATION
   
   lowe platform fungtionality-it does not allow enjoying all of the unique feature of every platform
   
