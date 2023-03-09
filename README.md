@@ -9,11 +9,11 @@
   
                               DISADVANTEGES OF PROGRASIVE WEB APPLICATION
   
- 1. still in the development phase
+ a. still in the development phase
   
- 2. cannot access on the device
+ b. cannot access on the device
   
- 3. not access to the apps stores
+ c. not access to the apps stores
   
                              ADVANTEGES OF NATIVE APPLICATION
   
@@ -47,7 +47,7 @@
   
                            DISADVANTEGES OF CROSS PLATFORM APPLICATION
   
- 1. lowe platform fungtionality-it does not allow enjoying all of the unique feature of every platform
+  1. lowe platform fungtionality-it does not allow enjoying all of the unique feature of every platform
   
  2.  complicated intergration-app with locol settings and notification appplication is usually difficult
   
