@@ -1,69 +1,69 @@
 # zenaviolet.github.com
                                 ADVANTEGES OF PROGRASIVE WEB APPLICATION 
 
- use up less storage space on the user devic
+  1. use up less storage space on the user devic
   
-  good perfomence in poor network condition
+ 2. good perfomence in poor network condition
   
-  short loading time hence instant update
+ 3. short loading time hence instant update
   
                               DISADVANTEGES OF PROGRASIVE WEB APPLICATION
   
-  still in the development phase
+ 1. still in the development phase
   
-  cannot access on the device
+ 2. cannot access on the device
   
-  not access to the apps stores
+ 3. not access to the apps stores
   
                              ADVANTEGES OF NATIVE APPLICATION
   
-  can work without internet conection
+ 1. can work without internet conection
   
-  enhance user expirience by improving scalability
+ 2. enhance user expirience by improving scalability
   
-  easier lounch to the markethence have greter security
+ 3. easier lounch to the markethence have greter security
   
-  have better perfomence and faster than web application
+ 4. have better perfomence and faster than web application
   
                              DISADVANTEGES OF NATIVE APPLICATION
   
-  time consuming development
+ 1. time consuming development
   
-  require frequent installation
+ 2. require frequent installation
   
-  lenthy downloading process
+ 3. lenthy downloading process
   
-  code written for a multiple platform caccot be toilored for another platform
+ 4. code written for a multiple platform caccot be toilored for another platform
   
                             ADVANTEGES OF CROSS PLATFORM APPLICATION
   
-  it can rich wide audience
+ 1. it can rich wide audience
   
-  faster update and flexibility
+ 2. faster update and flexibility
   
-  codes can be reused
+ 3. codes can be reused
   
-  sameless and unifofmity
+ 4. sameless and unifofmity
   
                            DISADVANTEGES OF CROSS PLATFORM APPLICATION
   
-  lowe platform fungtionality-it does not allow enjoying all of the unique feature of every platform
+ 1. lowe platform fungtionality-it does not allow enjoying all of the unique feature of every platform
   
-  complicated intergration-app with locol settings and notification appplication is usually difficult
+ 2.  complicated intergration-app with locol settings and notification appplication is usually difficult
   
-  platform integration-requirement of each platform can be troublesome
+ 3.  platform integration-requirement of each platform can be troublesome
   
-  limited user expirience
+ 4.  limited user expirience
   
                         DEFFINATION OF TERMS
 
-Ionic-is aframework used to develope cross platform
+1.Ionic-is aframework used to develope cross platform
 
-Java and swift  are programing language used by native app development
+2.Java and swift  are programing language used by native app development
 
-IDE-intergrated development enviroment
+3.IDE-intergrated development enviroment
 
-framework 7 is the framework used for mobile app development
+4.framework 7 is the framework used for mobile app development
   
   
   
