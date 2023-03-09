@@ -1,5 +1,5 @@
 # zenaviolet.github.com
-##advanteges of progresive web application
+                                ADVANTEGES OF PROGRASIVE WEB APPLICATION 
 
  use up less storage space on the user devic
   
