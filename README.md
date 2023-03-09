@@ -1,7 +1,7 @@
 # zenaviolet.github.com
 #  ADVANTEGES OF PROGRASIVE WEB APPLICATION 
 
-  1. use up less storage space on the user devic
+ 1. use up less storage space on the user devic
   
  2. good perfomence in poor network condition
   
@@ -9,11 +9,11 @@
   
 #  DISADVANTEGES OF PROGRASIVE WEB APPLICATION
   
- a. still in the development phase
+ 1. still in the development phase
   
- b. cannot access on the device
+ 2. cannot access on the device
   
- c. not access to the apps stores
+ 3. not access to the apps stores
   
 #  ADVANTEGES OF NATIVE APPLICATION
   
@@ -27,13 +27,13 @@
   
 #  DISADVANTEGES OF NATIVE APPLICATION
   
- a. time consuming development
+ 1. time consuming development
   
- b. require frequent installation
+ 2. require frequent installation
   
- c. lenthy downloading process
+ 3. lenthy downloading process
   
- d. code written for a multiple platform caccot be toilored for another platform
+ 4. code written for a multiple platform caccot be toilored for another platform
   
 # ADVANTEGES OF CROSS PLATFORM APPLICATION
   
