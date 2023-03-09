@@ -2,9 +2,9 @@
 <html>
   </head>
   <body>
-  Deffination of terms
+  <h1> Deffination of terms
   <oltype="A"
-  <h1>ionic is a framework used to develope cross platform</h1>
+  <p>ionic is a framework used to develope cross platform
   </body>
   </html>
 
