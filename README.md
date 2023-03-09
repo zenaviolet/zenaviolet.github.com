@@ -55,6 +55,16 @@
   
   limited user expirience
   
+                        DEFFINATION OF TERMS
+
+Ionic-is aframework used to develope cross platform
+
+Java and swift  are programing language used by native app development
+
+IDE-intergrated development enviroment
+
+framework 7 is the framework used for mobile app development
+  
   
   
   
